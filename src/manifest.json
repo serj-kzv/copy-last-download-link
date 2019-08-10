@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "copy-the-latest-downloaded-file-link",
-  "version": "2",
+  "version": "2.1",
   "description": "copy the latest downloaded file link",
   "author": "serj-kzv",
   "homepage_url": "https://github.com/serj-kzv/copy-the-latest-downloaded-file-link",
