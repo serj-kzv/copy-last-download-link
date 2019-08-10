@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "copy latest download link",
+  "name": "copy-the-latest-downloaded-file-link",
   "version": "2",
-  "description": "copy latest download link",
+  "description": "copy the latest downloaded file link",
   "author": "serj-kzv",
-  "homepage_url": "https://github.com/serj-kzv/copy-last-download-link",
+  "homepage_url": "https://github.com/serj-kzv/copy-the-latest-downloaded-file-link",
   "background": {
     "scripts": [
       "background.js"
